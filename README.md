@@ -1,47 +1,54 @@
-# Hi there, I'm Thatoe Nyi! 👋
+# 🚀 Hi, I'm Thatoe Nyi | Computer Science & AI Engineer
 
-### 👨‍💻 CS Student & AI Automation Specialist
-I'm a final-year Computer Science student based in **Bangkok, Thailand** (Rangsit University) and Co-founder of **CCS Automation Co., Ltd.**
-
-I bridge the gap between traditional software engineering and modern AI agents. My passion lies in building scalable web applications and orchestrating complex automation workflows to solve real-world business problems.
+I specialize in bridging the gap between **scalable software architecture** and **agentic AI workflows**. My approach is driven by the OSEMN framework and a passion for building autonomous systems that solve real-world bottlenecks.
 
 ---
 
-### 🛠️ Tech Stack
+### 💻 Stack & Skills
 
-**Languages**
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![SQL](https://img.shields.io/badge/sql-%2300f.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+**Languages** ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Web & Mobile Development**
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+**Frameworks & Tools** ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-**AI & Automation**
-![n8n](https://img.shields.io/badge/n8n-ff6e5c?style=for-the-badge&logo=n8n&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-
----
-
-### 🔭 What I'm Working On
-* **CCS Automation Co., Ltd.:** Leading technical operations to build AI agents and chatbots for clients.
-* **Restaurant Booking System:** A full-stack solution for Myanmar-based restaurants using **Next.js** and **Supabase**.
-* **Computer Vision Projects:** Experimenting with **OpenCV** for image processing (Magic Eraser & Style Transfer models).
-* **SaaS Development:** Building tools for **Creator AI Tech**.
-
-### 🌱 Currently Learning
-* **Rust** 🦀 (Preparing for my "Programming Languages" course presentation!)
-* Advanced **AI Agent Orchestration** patterns.
-
-### ⚡ Fun Facts
-* **Anime Fan:** Huge fan of *JoJo's Bizarre Adventure* (Parts 6, 7, & 8 are peak fiction).
-* **Gamer:** When I'm not coding, I'm ranking up in *Dota 2* or playing *Black Myth: Wukong*.
-* **Gym:** Currently grinding on a new Back & Biceps routine. 💪
+**AI & Data Science** ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
 ---
 
-<div align="center">
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/your-linkedin-handle/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</div>
+### 🚀 Featured Projects
+
+#### 🤖 Autonomous AI Agents & Workflows
+* **Intelligent Email Triage:** An automated system using n8n and LLMs to analyze customer intent, route tickets, and draft context-aware replies.
+* **Autonomous Newsletter Generator:** An end-to-end agentic workflow integrating **Tavily Search API** and Gmail API to research, synthesize, and dispatch technical insights automatically.
+
+#### 🏢 Crimson Palace WebOS
+* **Architecture:** Full-stack monolithic OS for hospitality (QR ordering, POS, Kitchen Displays).
+* **Tech:** Next.js, Supabase, PostgreSQL, Prisma.
+* **Key Achievement:** Designed a highly normalized relational database and authored complex SQL stored procedures to handle high-volume transactional integrity.
+
+---
+
+### ⚡ Beyond the Code
+* **Gaming:** Currently ranking up in **Dota 2** or boss-hunting in **Black Myth: Wukong**.
+* **Anime:** Big fan of *JoJo's Bizarre Adventure* (Steel Ball Run is peak fiction).
+* **Fitness:** Currently focused on a Back & Biceps hypertrophy block. 💪
+* **Content:** Creator of **"Creator AI Tech"** — sharing insights on automation and AI.
+
+---
+
+### 🤝 Let's Connect
+[LinkedIn](your-link-here) | [Portfolio](your-link-here)
+
+![Thatoe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
